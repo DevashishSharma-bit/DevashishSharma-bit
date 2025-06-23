@@ -27,7 +27,7 @@
 ### 🌐 Connect with Me
 - 📬 [LinkedIn](https://www.linkedin.com/in/devashish-sharma-542961315/)
 - 💬 [Twitter](https://x.com/SDEVASHISH01)
-- ✉️ devashishsharma860@email.com *(replace with yours)*
+- ✉️ devashishsharma860@email.com
 
 ---
 
