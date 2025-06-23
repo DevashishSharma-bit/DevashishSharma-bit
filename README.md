@@ -44,5 +44,7 @@
 
 ---
 
-*“Be so good they can’t ignore you.” — Steve Martin*
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
