@@ -19,14 +19,6 @@
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=JavaScript,js,f7df1e;Python,python,3776ab;React,react,61dafb;&line2=Node.js,nodejs,339933;Express,express,000000;MongoDB,mongodb,47a248;&line3=Git,git,f05032;VS%20Code,visualstudiocode,007acc;Firebase,firebase,ffca28;" alt="My Tech Stack" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ---
 
 ### 🧠 Current Focus
