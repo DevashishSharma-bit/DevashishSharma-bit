@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Devashish%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18" />
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Academic+Portfolio;Building+Tomorrow's+Technology+Today;Learning%2C+Creating%2C+Innovating" alt="Welcome Message" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?
 
 ### Hi there 👋 I'm Devashish Sharma
 
