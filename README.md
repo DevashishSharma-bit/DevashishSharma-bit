@@ -26,10 +26,9 @@
 ---
 
 ### 🌐 Connect with Me
-- 📬 [LinkedIn](https://www.linkedin.com/in/devashishsharma/)
-- 💬 [Twitter](https://twitter.com/)
-- 📽️ [YouTube Projects](https://www.youtube.com/)
-- ✉️ devashish@email.com *(replace with yours)*
+- 📬 [LinkedIn](https://www.linkedin.com/in/devashish-sharma-542961315/)
+- 💬 [Twitter](https://x.com/SDEVASHISH01)
+- ✉️ devashish860@email.com *(replace with yours)*
 
 ---
 
