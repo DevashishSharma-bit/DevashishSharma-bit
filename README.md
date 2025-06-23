@@ -21,7 +21,6 @@
 - Fintech x AI product ideas  
 - Winning hackathons & building MVPs  
 - System Design & ML  
-- Exploring VC-backed startup building 🚀
 
 ---
 
