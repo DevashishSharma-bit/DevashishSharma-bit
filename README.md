@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Devashish%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18" />
 </div>
 
-### Hi there 👋 I'm Devashish Sharma
-
 🎓 2nd Year Computer Science Engineering Student  
 💻 MERN Stack | AI/ML | Hackathons | Fintech  
 🚀 Building practical AI projects like **CreditVision AI**, and **ReverseHire AI**  
