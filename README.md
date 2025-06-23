@@ -29,10 +29,18 @@
 ---
 
 ### 🌐 Connect with Me
-- 📬 [LinkedIn](https://www.linkedin.com/in/devashish-sharma-542961315/)
-- 💬 [Twitter](https://x.com/SDEVASHISH01)
-- ✉️ devashishsharma860@email.com
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/devashishsharma/" target="_blank">
+    <img alt="LinkedIn" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:devashish@email.com" target="_blank">
+    <img alt="Gmail" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/devashish_dev" target="_blank">
+    <img alt="Twitter" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
+  </a>
+</p>
 ---
 
 *“Be so good they can’t ignore you.” — Steve Martin*
