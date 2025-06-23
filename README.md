@@ -3,7 +3,7 @@
 🎓 2nd Year Computer Science Engineering Student  
 💻 MERN Stack | AI/ML | Hackathons | Fintech  
 🚀 Building practical AI projects like **CreditVision AI**, and **ReverseHire AI**  
-🏆 Hackathon Winner | Always Learning
+🏆 Hackathon | Always Learning
 
 ---
 
