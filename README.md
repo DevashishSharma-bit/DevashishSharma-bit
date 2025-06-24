@@ -35,7 +35,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devashish-sharma-542961315/" target="_blank">
+  <a href="https://www.linkedin.com/in/devashish-sharma-bit/" target="_blank">
     <img alt="LinkedIn" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:devashishsharma860@email.com" target="_blank">
