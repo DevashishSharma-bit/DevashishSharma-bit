@@ -22,9 +22,21 @@
 ---
 
 ### 🧠 Current Focus
-- Fintech x AI product ideas  
-- Winning hackathons & building MVPs  
-- System Design & ML  
+
+<div align="center">
+<!-- 🧠 Contributions Overview -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevashishSharma-bit&theme=tokyonight" width="96%" />
+
+<!-- 🎯 Language Metrics: Top langs & commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevashishSharma-bit&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevashishSharma-bit&theme=tokyonight" width="48%" />
+
+<!-- 📈 GitHub Stats & Active Hours -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevashishSharma-bit&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevashishSharma-bit&theme=tokyonight&utcOffset=6.5" width="48%" />
+
+</div> 
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding GIF"/>
